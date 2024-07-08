@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="524px" height="152px" viewBox="0 0 524 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>background-noodle-top2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="36.3946859%" y1="50.8058286%" x2="19.3944192%" y2="50.4892145%" id="linearGradient-1">
+            <stop stop-color="#2A86CB" offset="0%"></stop>
+            <stop stop-color="#2A3A65" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Details" transform="translate(-916.000000, -2146.000000)" fill-rule="nonzero">
+            <g id="background-noodle-top2" transform="translate(785.500000, 2374.500000) scale(1, -1) translate(-785.500000, -2374.500000) translate(0.000000, 2146.000000)">
+                <path d="M0,457 L0,143.29661 C38.4414824,266.108822 110.320596,374.986408 207.101593,457 L0,457 Z M928.749396,457 C970.817142,435.592615 1011.27898,410.980932 1049.79858,383.369532 C1216.11055,264.461179 1442.9471,298.743007 1571,457 L928.749396,457 Z" id="Shape" fill="#291F71"></path>
+                <path d="M0,457 L0,0 C19.6184132,84.6059349 54.7763287,164.543455 103.5687,235.48111 C168.270507,330.055583 255.051075,406.247766 355.871944,457 L0,457 Z M959.909412,457 C989.178856,442.093753 1017.33096,424.95631 1044.13171,405.730125 C1159.84646,322.932654 1317.67236,346.803548 1406.76762,457 L959.909412,457 Z" id="Shape" fill="url(#linearGradient-1)" opacity="0.6851516"></path>
+            </g>
+        </g>
+    </g>
+</svg>
